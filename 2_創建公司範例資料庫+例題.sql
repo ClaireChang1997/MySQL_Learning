@@ -71,7 +71,6 @@ SELECT * FROM `client`;
 SELECT * FROM `work_with`;
 
 
-
 -- 基礎練習
 -- 1. 取得所有員工資料
 SELECT * FROM `employee`;
@@ -83,3 +82,4 @@ SELECT * FROM `employee` ORDER BY `salary`;
 SELECT * FROM `employee` ORDER BY `salary` DESC LIMIT 3;
 -- 5. 取得所有員工的名字
 SELECT `name` FROM `employee`;
+
